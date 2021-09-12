@@ -1,0 +1,27 @@
+.outer{
+    margin: auto;
+    border: 1px solid rgb(170, 155, 117);
+   /* border-radius: 5px;*/
+    
+    background-color: rgb(78, 78, 219);
+    height: 50px;
+    width:100%;
+}
+.head{
+    margin-top:5px;
+    font-weight: 400;
+    font-family:'Poppins' ;
+    font-size:  1.5em;
+    text-align: center;
+    color: aliceblue;
+    /*color:rgba(255, 255, 255, 0.596);*/
+}
+.info{
+    margin-top:5px;
+    
+
+    font-size:  10px;
+    text-align: center;
+    color: aliceblue;
+   
+}
